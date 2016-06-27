@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>MHXXFSCL62480</hostname>
+      <hostId/>
+      <osName>Windows 7</osName>
+      <osVersion>6.1</osVersion>
+      <osArchitecture>amd64</osArchitecture>
+      <systemModel>Precision M6500</systemModel>
+      <systemManufacturer>Dell Inc.</systemManufacturer>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber>9KPQNN1</serialNumber>
+   </environment>
+   <registry urn="urn:st:3c4dce2f-9fcf-4e44-b7b1-dc5c0ef6c34e" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:34c098d6-967d-4a6c-a1fc-0e95a6971c75</instance_urn>
+         <product_name>Java SE 7 Development Kit</product_name>
+         <product_version>1.7.0_09</product_version>
+         <product_urn>JSEZ9-007-ZZZZ</product_urn>
+         <product_parent_urn>urn:uuid:dc1704fe-264f-11dc-9482-080020a9ed93</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 7 (Java SE 7)</product_parent>
+         <product_defined_inst_id>id=1.7.0_09-b05 amd64,dir=C:\Program Files\Java\jdk1.7.0_09\jre</product_defined_inst_id>
+         <product_vendor>Oracle Corporation</product_vendor>
+         <platform_arch>amd64</platform_arch>
+         <timestamp>2012-11-07 19:54:09 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JDK i586 installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
